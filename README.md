@@ -2,3 +2,5 @@
 
 'query work
 
+git add .
+git ci
