@@ -3,3 +3,5 @@
 'query work
 
 git add .
+
+copied tro linux
